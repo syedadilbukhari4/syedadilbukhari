@@ -1,40 +1,124 @@
-# Hi, I'm Adil 👋
+# Hi there, I'm Syed Adil Bukhari 👋
 
-Final-year CS student @ FAST-NUCES Lahore  
-Building things at the intersection of **AI, Computer Vision & Full-Stack Dev**
+Computer Science graduate from **FAST-NUCES Lahore** passionate about building intelligent software using **Python, FastAPI, Computer Vision, Generative AI, and Machine Learning**.
 
----
-
-## 🚗 Currently Working On
-**Alert Eye** — Real-time AI driver monitoring system  
-Drowsiness · Yawning · Phone detection · Distraction alerts  
-`Python` `FastAPI` `YOLOv5` `dlib` `Flutter` `OpenCV`
+I enjoy solving real-world problems through AI-powered applications, scalable backend systems, and modern software engineering practices.
 
 ---
 
-## 🛠 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+## 🚀 Featured Projects
+
+### 🚗 Alert Eye — Real-Time Driver Monitoring System
+
+**Python • FastAPI • YOLOv5 • OpenCV • dlib • Flutter**
+
+* Real-time driver monitoring from a single camera
+* Detects drowsiness, yawning, phone usage, and driver distraction
+* REST API backend for live inference
+* Optimized to run at **25 FPS** with minimal false positives
 
 ---
 
-## 🔨 Projects
-| Project | Stack | Description |
-|--------|-------|-------------|
-| 🚗 Alert Eye (FYP) | Python, YOLOv5, Flutter | Real-time driver monitoring — drowsiness, phone, distraction |
-| 😊 Emotion Detection | TensorFlow, OpenCV | Live facial emotion recognition (7 classes) |
-| 🏏 DRS Overlay | FastAPI, OpenCV | Cricket DRS ball-tracking overlay on live video |
-| 🤖 Gemini Chatbot | Streamlit, Gemini API | LLM chatbot with configurable temperature & history |
-| 🗳 Voting System | Django, PostgreSQL | Secure platform with JWT auth & live results |
+### 📄 ResumeIQ — AI Resume Analyzer
+
+**Python • FastAPI • Gemini API • SQL • NLP**
+
+* AI-powered resume analysis against job descriptions
+* Skill gap detection
+* Personalized interview questions
+* Learning roadmap generation
 
 ---
 
-## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-adil-bukhari-a988142b7)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:syedadilbukhari444@gmail.com)
+### 📚 RAG Document Assistant
+
+**Python • FastAPI • LangChain • ChromaDB • HuggingFace**
+
+* Retrieval-Augmented Generation (RAG)
+* Semantic document search
+* Natural language PDF querying
+* Vector database pipeline
+
+---
+
+### 😊 Facial Recognition System
+
+**Python • OpenCV • Deep Learning**
+
+* Real-time face detection
+* Live webcam inference
+* Optimized computer vision pipeline
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+* Python
+* SQL
+* C++
+* C
+* Dart
+
+### Backend
+
+* FastAPI
+* Django
+* REST APIs
+
+### AI / ML
+
+* TensorFlow
+* YOLOv5
+* OpenCV
+* LangChain
+* ChromaDB
+* Gemini API
+* HuggingFace
+* NLP
+* RAG
+* Computer Vision
+
+### Cloud & Tools
+
+* AWS (EC2, S3, IAM, VPC)
+* Git
+* Linux
+* Jira
+* VS Code
+
+---
+
+## 🌱 Currently Learning
+
+* Agentic AI
+* LangGraph
+* Multi-Agent Systems
+* MLOps
+* Docker
+* Kubernetes
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=syedadilbukhari4\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=syedadilbukhari4\&theme=tokyonight\&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=syedadilbukhari4\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+* 💼 LinkedIn: https://linkedin.com/in/syed-adil-bukhari
+* 📧 Email: [syedadilbukhari4444@gmail.com](mailto:syedadilbukhari4444@gmail.com)
+* 💻 GitHub: https://github.com/syedadilbukhari4
+
+---
