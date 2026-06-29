@@ -99,22 +99,6 @@ I enjoy solving real-world problems through AI-powered applications, scalable ba
 * Docker
 * Kubernetes
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=syedadilbukhari4\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=syedadilbukhari4\&theme=tokyonight\&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=syedadilbukhari4\&layout=compact\&theme=tokyonight\&hide_border=true)
-
-</p>
-
----
-
 ## 🤝 Connect with Me
 
 * 💼 LinkedIn: https://linkedin.com/in/syed-adil-bukhari
